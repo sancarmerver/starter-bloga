@@ -15,8 +15,8 @@ fields:
   config:
     required: true
     date_format: YYYY-MM-DD
-    time_format:
-    display_utc:
+    time_format: 
+    display_utc: 
     export_format: ''
   default: now
 - type: select
